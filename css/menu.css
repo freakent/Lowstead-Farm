@@ -1,0 +1,53 @@
+#menu {
+border:1px solid #D4D4D4;
+background-color:#E5EECC;
+padding: 10px;
+list-style-type:none;
+text-align: center;
+margin: 0 50px 30px 35px;
+font-style: italic;
+}
+#menu li {
+font-weight: bold;
+font-size:1em;
+color:#A51B34;
+font-style: normal;
+margin: 0;
+}
+
+#menu ul {
+margin:10px 0;
+padding:0;
+font-size:1em;
+}
+
+#menu ul li {
+list-style-type:none;
+text-align: center;
+font-style:normal
+}
+
+#menu ul ul{
+margin:0 0 15px 0;
+}
+
+#menu ul ul li{
+font-weight: normal;
+line-height:135%;
+font-size:1em;
+color: black;
+}
+
+#conditions {
+border:1px solid #D4D4D4;
+padding: 10px;
+list-style-type:square;
+margin: 10px 50px 30px 35px;
+font-style: italic;
+}
+
+#conditions li {
+margin-left:15px;
+margin-bottom: 3px;
+line-height: 105%;
+}

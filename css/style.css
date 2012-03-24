@@ -1,0 +1,120 @@
+body {
+background-color:#E5EECC;
+/* background-color:#A51B34; */
+color:#000000;
+font-family: Georgia, "Times New Roman",  Times,  serif;
+font-size:1em;
+}
+
+a { text-decoration:none}
+a:link {color:#683B02}      /* unvisited link */
+a:visited {color:#683B02}  /* visited link */
+a:hover {color:#683B02; text-decoration:underline}  /* mouse over link */
+a:active {color:#683B02}  /* selected link */
+
+a { text-decoration:none}
+a:link {color:#A51B34;}      /* unvisited link */
+a:visited {color:#A51B34;}  /* visited link */
+a:hover {color:#A51B34;; text-decoration:underline}  /* mouse over link */
+a:active {color:#A51B34;}  /* selected link */
+
+td {
+vertical-align:text-top;
+}
+
+b {
+	color:#A51B34; /* Red */
+}
+
+ul {
+margin:auto;
+}
+
+ul img {
+float:right;
+margin-right: 25px;
+}
+
+h2 img {
+vertical-align: text-bottom;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+#header, #container {
+background-color: #FFFFFF;
+}
+
+.banner {
+display:block;
+margin-left:auto;
+margin-right:auto;
+width: 977px;
+clear:both;
+}
+
+#container p {
+line-height:150%;
+}
+
+#container li {
+line-height:125%;
+margin-bottom: 0.5em;
+}
+
+#container h2 {
+font-size:1.15em;
+margin-top:0.5em;
+margin-bottom:0.25em;
+color:#683B02; /* Brown */
+color:#A51B34; /* Red */
+}
+
+p.firstParagraph {
+margin-top:0px;
+}
+
+.brand-farm {
+	color:#683B02; /* Brown */
+	color:#A51B34; /* Red */
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.brand-cottage{
+	color:#A51B34; /* Red */
+	font-weight: bold;
+	font-style:italic;
+}
+
+
+img.thumbnail {
+margin-top: 10px;
+height: 150px;
+width: 200px;
+}
+
+.note {
+font-size:small;
+font-style:italic;
+}
+
+.note img {
+vertical-align: middle;
+margin-right: 10px
+}
+
+table.contact {
+margin-top:0.5em;
+margin-bottom: 0.5em;
+}
+
+#footer {
+font-size: 0.7em;
+width:50%;
+margin-left:auto;
+margin-right:auto;
+margin-top:10px;
+text-align:center;
+}
+ 
