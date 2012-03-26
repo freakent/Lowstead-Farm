@@ -45,6 +45,11 @@ margin-left: 10px;
 background-color: #FFFFFF;
 }
 
+.logo img {
+  vertical-align: text-bottom;
+  height: 80px; 
+}
+
 .banner {
 display:block;
 margin-left:auto;
